@@ -1,0 +1,22 @@
+dict = {
+    'ARSENAL':'ARS', 
+    'ASTON VILLA':'AVL',
+    'BOURNEMOUTH':'BOU',
+    'BRENTFORD':'BRE',
+    'BRIGHTON':'BRI',
+    'CHELSEA':'CHE',
+    'CRYSTAL PALACE':'CRY',
+    'EVERTON':'EVE',
+    'FULHAM':'FUL',
+    'LEEDS':'LEE',
+    'LEICESTER':'LEI',
+    'LIVERPOOL':'LIV',
+    'MAN CITY':'MCI',
+    'MAN UTD':'MUN',
+    'NEWCASTLE':'NEW',
+    'NOTTINGHAM':'NFO',
+    'SOUTHAMPTON':'SOU',
+    'SPURS':'TOT',
+    'WEST HAM':'WHU',
+    'WOLVES':'WOL'
+    }
